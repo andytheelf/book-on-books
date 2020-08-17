@@ -1,16 +1,16 @@
 <h1 align="center">Book Search</h1>
 
 <p align="center">
+    <img src="https://img.shields.io/badge/API-blue"/>
     <img src="https://img.shields.io/badge/React-brightgreen"/>
     <img src="https://img.shields.io/badge/MERN-red"/>
     <img src="https://img.shields.io/badge/ApolloServer-success"/>
     <img src="https://img.shields.io/badge/MongoDB-yellow"/>
     <img src="https://img.shields.io/badge/Node.js/Express.js-orange"/>
-    <img src="https://img.shields.io/badge/API-blue"/>
 </p>
 
 <p align="center">
-    <img src="./assets/Capture.jpg" alt="mainpage"/>
+    <img src="assets\Capture.JPG" alt="mainpage"/>
 </p>
 
 
